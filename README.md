@@ -1,1 +1,1 @@
-Brushing up my Skills on jQuery
+Learning jQuery
